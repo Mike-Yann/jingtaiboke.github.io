@@ -15,11 +15,7 @@ tags:
 - 最简单
 ---
 
-
-> 这可能是史上最简单的静态站点生成器了,使用markdown作为源文件,生成html静态站点,并且html是渲染过的,搜索引擎友好
-
-github:[https://github.com/jingtaiboke/simple-markdown-site](https://github.com/jingtaiboke/simple-markdown-site "https://github.com/jingtaiboke/simple-markdown-site")
-
+<div style="position:relative; overflow:hidden; padding-bottom:56.25%"><iframe src="https://cdn.jwplayer.com/players/ZORIc2rj-2Ly2jD18.html" width="100%" height="100%" frameborder="0" scrolling="auto" title="2022-04-01 09-38-52" style="position:absolute;" allowfullscreen></iframe></div>
 ## 演示
 
 [DEMO](https://heji.vercel.app/ "demo")
