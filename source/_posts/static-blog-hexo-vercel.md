@@ -30,9 +30,7 @@ updated: 2021-01-20 19:19:14
 
 点击这个按钮,一键部署 [![一键部署hexo到vercel](https://vercel.com/button "一键部署hexo到vercel")](https://vercel.com/import/project?template=https://github.com/jingtaiboke/jingtaiboke.github.io "一键部署hexo到vercel")
 
-## 界面1,随便取一个名字
-![](http://img.youzibe.com/upload/2021/01/242316-1611501410216.png)
-
+<div style="position:relative; overflow:hidden; padding-bottom:56.25%"><iframe src="https://cdn.jwplayer.com/players/ZORIc2rj-2Ly2jD18.html" width="100%" height="100%" frameborder="0" scrolling="auto" title="2022-04-01 09-38-52" style="position:absolute;" allowfullscreen></iframe></div>
 ## 界面2,选择github,并建立连接
 
 ![](http://img.youzibe.com/upload/2021/01/242315-1611501356761.png)
